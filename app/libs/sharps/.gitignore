@@ -1,0 +1,12 @@
+.*.swp
+
+.project
+.settings/
+.idea/
+
+.enb/tmp
+node_modules
+npm-debug.log
+
+/dist/dist.css
+/dist/dist.deps.js

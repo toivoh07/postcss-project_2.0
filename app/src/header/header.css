@@ -1,0 +1,7 @@
+.header{
+  width: 960px;
+  margin: 0 auto;
+  background-color: red;
+  color: $hren;
+  font-size: 30px;
+}

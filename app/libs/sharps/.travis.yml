@@ -1,0 +1,14 @@
+language: node_js
+
+node_js:
+  - "4.0"
+
+env:
+  global:
+    - GH_REF: github.com/bem-incubator/sharps.git
+  matrix:
+    - TEST_SCOPE: lint
+    - TEST_SCOPE: specs
+
+matrix:
+  fast_finish: true

@@ -1,0 +1,9 @@
+@import "variables.css";
+@import "../libs/sharps/dist/sharps.min.css";
+
+@import "page/page.css";
+@import "header/header.css";
+
+
+
+@import "footer/footer.css"
